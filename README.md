@@ -1,5 +1,5 @@
 # MathModeling2018B
-My MATLAB code for Chinese national college student mathematical contest in modeling, question B, 2018
+My MATLAB code for Chinese college student mathematical contest in modeling(CUCUM), question B, 2018
 全国大学生数学建模竞赛2018年B题，我的MATLAB代码。
 
 第1问的决策过程可以看作一棵庞大的决策树。你要不断选择RGV下一次所去的CNC的编号。每次都有8种选择。当你总共需要选择几百次时，一共就有8的几百次方种选择方法。当然不可能去暴力遍历整个决策树。
