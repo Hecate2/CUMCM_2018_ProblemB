@@ -1,5 +1,8 @@
+## 为什么我拿了一等奖
+玩过赛尔号的人可能会很理解这个问题：战斗力测试中，鲁斯王在10回合内如何输出最大伤害（敌人不会攻击，且假设我方不会因运气好而打出致命一击）？我曾经认真思考过这个问题。  
+其实鲁斯王的问题可能比机床还难，因为湍流龙击打连续使用会增加威力。  
 # MathModeling2018B
-My MATLAB code for Chinese (Contemporary) college student mathematical contest in modeling(CUMCM), question B, 2018
+My MATLAB code for Contemporary Undergraduate Mathematical Contest in Modeling(CUMCM), question B, 2018
 全国大学生数学建模竞赛2018年B题，我的MATLAB代码。
 
 第1问的决策过程可以看作一棵庞大的决策树。你要不断选择RGV下一次所去的CNC的编号。每次都有8种选择。当你总共需要选择几百次时，一共就有8的几百次方种选择方法。当然不可能去暴力遍历整个决策树。  
